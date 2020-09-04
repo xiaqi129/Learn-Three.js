@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.tscache/
+
+node_modules/
+# typings/
+
+dist/
